@@ -14,6 +14,8 @@
 - Sara
 - Jadher Aragão 
 - Eliel
+- Diego  
+- Vinicius
 - Guilherme Souza
 - Carolina
 
