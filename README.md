@@ -4,6 +4,7 @@
 ## Alunos
 
 
+- Vanessa
 -Luan 
 - Ryan
 - Sara
