@@ -8,7 +8,7 @@
 - Sara
 - Jadher Aragão 
 - Eliel
-- 
-- 
+- Diego  
+- Vinicius
 
 Adicione seu nome através de um Pull Request!
