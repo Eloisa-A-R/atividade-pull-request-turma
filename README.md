@@ -4,11 +4,16 @@
 ## Alunos
 
 
+- Vanessa
+-Luan 
 - Ryan
 - Sara
 - Jadher Aragão 
 - Eliel
 - Diego  
 - Vinicius
+- Guilherme Souza
+- Carolina
+
 
 Adicione seu nome através de um Pull Request!
